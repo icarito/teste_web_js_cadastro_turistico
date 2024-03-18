@@ -1,5 +1,7 @@
 # Projeto de Cadastro de Pontos Turísticos
 
+** Antes de executar o projeto, é necessário ter o Node.js instalado na máquina e instalar as dependencias com o comando `npm install`.
+
 O projeto tem duas partes, o *backend*:
 
 ```
@@ -12,5 +14,5 @@ E o frontend fica dentro da pasta `./frontend` e é um projeto em React.
 
 ```
 cd frontend
-npm start
+npm dev
 ```
